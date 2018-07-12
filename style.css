@@ -180,19 +180,19 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 60px;
 }
 #about p{
-	font-size: 26px;
+	font-size: 20px;
 }
 #incubator h1{
 	font-size: 40px;
 }
 #incubator p{
-	font-size: 26px;
+	font-size: 20px;
 }
 #developers-group h1{
 	font-size: 40px;
 }
 #developers-group p{
-	font-size: 26px;
+	font-size: 20px;
 }
 #bloc-6 h3{
 	font-size: 26px;
@@ -204,23 +204,23 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 40px;
 }
 #research-center p{
-	font-size: 26px;
+	font-size: 20px;
 }
 #joint-lab h1{
 	font-size: 40px;
 }
 #joint-lab p{
-	font-size: 26px;
+	font-size: 20px;
 }
 
 #strategic-partners h1{
 	font-size: 40px;
 }
-#jiaruwomen h1{
+#contact-us h1{
 	font-size: 40px;
 }
-#jiaruwomen h2{
-	font-size: 26px;
+#contact-us h2{
+	font-size: 20px;
 }
 
 /* = NavBar
