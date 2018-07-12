@@ -179,11 +179,20 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-family: Arvo;
 	font-size: 60px;
 }
-#guanyu p{
+#about p{
 	font-size: 26px;
 }
-#fuhuafuwu h1{
+#incubator h1{
 	font-size: 40px;
+}
+#incubator p{
+	font-size: 26px;
+}
+#developers-group h1{
+	font-size: 40px;
+}
+#developers-group p{
+	font-size: 26px;
 }
 #bloc-6 h3{
 	font-size: 26px;
@@ -191,7 +200,20 @@ a:hover{text-decoration: none; cursor:pointer;}
 #bloc-7 h3{
 	font-size: 26px;
 }
-#zhanyuehezuo h1{
+#research-center h1{
+	font-size: 40px;
+}
+#research-center p{
+	font-size: 26px;
+}
+#joint-lab h1{
+	font-size: 40px;
+}
+#joint-lab p{
+	font-size: 26px;
+}
+
+#strategic-partners h1{
 	font-size: 40px;
 }
 #jiaruwomen h1{
